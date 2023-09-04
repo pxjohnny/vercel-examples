@@ -31,7 +31,7 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) to bootstrap the example:
 
 ```bash
-npx create next-app --example https://github.com/vercel/examples/tree/main/edge-middleware/bot-protection-human bot-protection-datadome (??)
+npx create next-app --example https://github.com/vercel/examples/tree/main/edge-middleware/bot-protection-human bot-protection-human-example
 ```
 
 You'll need to have an account with [Human](https://humansecurity.com). Once that's done, copy the `.env.example` file in this directory to `.env.local` (which will be ignored by Git):
