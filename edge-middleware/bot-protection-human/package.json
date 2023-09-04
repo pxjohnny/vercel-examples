@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "next": "^13.1.6",
-    "perimeterx-nextjs": "0.1.6"
+    "perimeterx-nextjs": "0.1.6",
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
