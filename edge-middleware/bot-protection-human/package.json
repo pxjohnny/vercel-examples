@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "dev": "next",
+    "clean": "rm -rf .next || true",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "perimeterx-nextjs": "0.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.21",
+    "@types/react": "18.0.28",
+    "typescript": "^4.8.3"
+  }
+}
